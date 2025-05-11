@@ -19,6 +19,8 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Qtec Product App',
       home: ProductListScreen(),
+
+      //Changes ...................
     );
   }
 }
